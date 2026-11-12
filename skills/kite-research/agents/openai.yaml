@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Research / 科研总入口"
+  short_description: "Route evidence-led research across the Kite suite"
+  default_prompt: "Use $kite-research to continue the next useful stage of my research project."

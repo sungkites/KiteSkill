@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Literature / 文献证据"
+  short_description: "Find real sources and verify claims and references"
+  default_prompt: "Use $kite-literature to find and verify sources for my research claims."

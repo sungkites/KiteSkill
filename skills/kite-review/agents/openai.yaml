@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Review / 审稿修回"
+  short_description: "Review evidence and prepare traceable reviewer responses"
+  default_prompt: "Use $kite-review to audit my manuscript or revise my reviewer response."

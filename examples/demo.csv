@@ -1,0 +1,7 @@
+budget,score,method,sd
+1,0.42,Baseline,0.03
+2,0.48,Baseline,0.04
+4,0.51,Baseline,0.03
+1,0.44,Candidate,0.04
+2,0.56,Candidate,0.03
+4,0.63,Candidate,0.04

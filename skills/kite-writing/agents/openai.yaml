@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Writing / 论文写作"
+  short_description: "Draft, translate and polish evidence-grounded papers"
+  default_prompt: "Use $kite-writing to revise my manuscript without changing its scientific meaning."

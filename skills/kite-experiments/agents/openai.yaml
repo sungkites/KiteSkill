@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Experiments / 实验设计"
+  short_description: "Design fair comparisons, mechanism tests and statistics"
+  default_prompt: "Use $kite-experiments to design focused experiments around my central claim."

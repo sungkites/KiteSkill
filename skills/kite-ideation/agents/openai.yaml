@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Ideation / 研究构思"
+  short_description: "Build mechanism-grounded research questions and pilots"
+  default_prompt: "Use $kite-ideation to identify a testable mechanism and a decisive pilot."

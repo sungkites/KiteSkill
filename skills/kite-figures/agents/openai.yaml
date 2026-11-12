@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kite Figures / 科研绘图"
+  short_description: "Create and inspect scientific plots and method diagrams"
+  default_prompt: "Use $kite-figures to make publication figures from my data and method."
